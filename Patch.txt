@@ -1,0 +1,5 @@
+Handle saving better. Currently only pages save immediatly on death and not any other stats.
+
+Cloud Save.
+
+Abilities.

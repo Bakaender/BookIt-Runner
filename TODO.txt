@@ -1,0 +1,4 @@
+
+---------------Optional-------------------------
+Create an analytic for how long alive.
+Create an analytic for revives.

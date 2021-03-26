@@ -1,0 +1,8 @@
+Tutorial messes up if origin reset at same time.
+
+Premium is being set parent to platform, if you don't get it and platform spawns again will have double pages.
+
+-----------------------------------------------Fixed--------------------------------------------------
+Restart Button:
+-If pause before logo moves off screen it enables gameplay canvas again having 2 pause buttons.
+--Camera offset Coroutine was calling it. I added if Time.timescale == 1 to fix.
